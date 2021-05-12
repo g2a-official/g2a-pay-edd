@@ -1,4 +1,6 @@
-# G2A Pay module for Easy Digital Downloads
+# ⚠ This repository is now DEPRECATED and will be deleted after 1st of August 2021. We recommend to use [Zen](https://www.zen.com/) in new projects.
+
+## G2A Pay module for Easy Digital Downloads
 
 EDD - A complete eCommerce solution for merchants, allowing them to sell digital goods in an easy-to-use plugin. Easy Digital Downloads offer a set of essential features that make selling digital goods simple and hassle-free. The core plugin features include a cart system for purchasing multiple downloads instantly, as well as a complete promotional code system.
 
